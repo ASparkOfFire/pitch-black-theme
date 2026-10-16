@@ -1,0 +1,7 @@
+id = "pitch-black"
+name = "Pitch Black"
+version = "0.0.1"
+schema_version = 1
+authors = ["asparkoffire"]
+description = "True-black (#000000) themes for OLED displays: 35 variants including Xcode, Oxocarbon, Tokyo Night, Catppuccin, Dracula, Gruvbox, Nord, Rosé Pine, Kanagawa, Monokai Pro, Ayu, GitHub Dark and Synthwave '84."
+repository = "https://github.com/asparkoffire/pitch-black-zed"
