@@ -1,4 +1,4 @@
-# Pitch Black for Zed
+# Pitch Black Theme
 
 True-black (`#000000`) themes for Zed, built for OLED displays.
 
